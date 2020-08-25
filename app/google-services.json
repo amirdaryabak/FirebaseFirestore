@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416619080786",
+    "firebase_url": "https://fine-booking-280016.firebaseio.com",
+    "project_id": "fine-booking-280016",
+    "storage_bucket": "fine-booking-280016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416619080786:android:78e1606964a403a831038b",
+        "android_client_info": {
+          "package_name": "com.amirdaryabak.firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416619080786-euoqmkmq2p7sgg2dh567gldc3197gihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFaitSWTVnXOdUERJBQSlb06Qy53TXWkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416619080786-euoqmkmq2p7sgg2dh567gldc3197gihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
